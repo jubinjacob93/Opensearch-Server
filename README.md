@@ -1,5 +1,5 @@
 
-# Wiki-searcher
+# Opensearch-Server
 
 The goal of this project is to create a small web-application that offers a somewhat different way to search for information on wikipedia. The application would be running on a web server on http://*.wiki-search.com
 
